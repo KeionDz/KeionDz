@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle Dimzon</h1>
-<h3 align="center">A Back-end Developer with a knowledge with full code and No code</h3>
+<h3 align="center">A Back-end Developer & Front-end Developer with a knowledge with full code and No code</h3>
 
 
 
